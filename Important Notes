@@ -10,5 +10,14 @@ Freecodecamp youtube Link: https://www.youtube.com/watch?v=mU6anWqZJcc
 GIT LINK : https://git-scm.com/
 commands ==> rightclick ==> git bash here
 
-git changes
+git changes commands:
+
+git status 
+git add .
+git commit -m "message"
+
+
+how to revise any code/file which was deleted/effected
+
+git checkout -- .
 
