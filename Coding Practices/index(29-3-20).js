@@ -29,8 +29,8 @@
 var city = "Karachi"
 alert(city)
 
-var c = "Karachi"
-var city = "Karachi"
-var mycitynameis = "Karachi"
+// var c = "Karachi"
+// var city = "Karachi"
+// var mycitynameis = "Karachi"
 
-var fname= "M Aslam"
+// var fname= "M Aslam"
