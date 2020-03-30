@@ -32,3 +32,5 @@ alert(city)
 var c = "Karachi"
 var city = "Karachi"
 var mycitynameis = "Karachi"
+
+var fname= "M Aslam"
