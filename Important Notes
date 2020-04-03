@@ -15,6 +15,7 @@ git changes commands:
 git status 
 git add .
 git commit -m "message"
+git push -u origin master
 
 
 how to revise any code/file which was deleted/effected
