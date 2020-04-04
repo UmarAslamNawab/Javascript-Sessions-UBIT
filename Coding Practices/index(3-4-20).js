@@ -101,12 +101,12 @@
 
 
 
-var num = +prompt("Enter Your Number");
+// var num = +prompt("Enter Your Number");
 
-if (num % 2 !== 0) {       
-  alert("Odd Number");
-}
+// if (num % 2 !== 0) {       
+//   alert("Odd Number");
+// }
 
-if (num % 2 == 0) {      
-  alert("Even Number");
-}
+// if (num % 2 == 0) {      
+//   alert("Even Number");
+// }
