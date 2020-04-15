@@ -32,6 +32,8 @@
 
 var pets = ['dog', 'cat' , 'bird' , 'lizard', 'fish' ,'gerbil', 'snake'];
 console.log(pets)
+
+
 // pets.shift('cat');
 // console.log(pets);
 // pets.unshift('deer', 'snake','monkey');
@@ -39,14 +41,14 @@ console.log(pets)
 // pets.splice(2 , 1) // startingindex, numberofElementToRemove, ""
 
 
-var removePets = pets.splice(2, 1) // startingindex, numberofElementToRemove, ""
-console.log(pets)
-console.log(removePets);
+// var removePets = pets.splice(2, 1) // startingindex, numberofElementToRemove, ""
+// console.log(pets)
+// console.log(removePets);
 
 
-var lastElement = pets.push("abc"); 
-console.log(pets);
-console.log(lastElement)
+// var lastElement = pets.unshift("abc","def"); 
+// console.log(pets);
+// console.log(lastElement)
 
 
 // var copyPets = pets.slice(2);
