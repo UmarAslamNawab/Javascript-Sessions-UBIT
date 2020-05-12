@@ -76,13 +76,5 @@ Passing data back from them using return keyword*/
 
 
 
-function add(num1, num2) //parameters
-{
-    var sum = num1 + num2;
-    return sum;
-}
-
-document.write("Sum is " + add(4, 6));
-
-
-
+// function add(num1, num2) //parameters
+// {}
