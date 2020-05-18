@@ -1,0 +1,11 @@
+.hidden{
+    display: none;
+}
+
+.pclass{
+    font-style: italic;
+}
+
+.big{
+    font-size: larger;
+}
