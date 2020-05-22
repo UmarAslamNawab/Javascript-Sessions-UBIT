@@ -64,7 +64,8 @@ function calcShippingCharges(amount) {
 
 // function increment(num) //5
 // {
-//      add(num, 1); //6
+//      add(num); //6
+
 // }
 
 // alert(increment(5));
@@ -151,3 +152,6 @@ document.write(chngCase("my name is umar aslam"))
 
 
 // funcCall(parama,paramb)
+
+
+var counter = 0
