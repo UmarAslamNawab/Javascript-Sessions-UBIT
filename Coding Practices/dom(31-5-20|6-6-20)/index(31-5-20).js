@@ -12,6 +12,3 @@
 // var contents = p[1].innerHTML;
 // console.log(contents)
 
-var p = document.childNodes[0]
-// var contents = p.innerHTML;
-console.log(p)
